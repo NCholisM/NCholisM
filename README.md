@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=NCholisM)
+![](https://komarev.com/ghpvc/?username=NCholisM&style=for-the-badge&label=PROFILE+VIEWS)
 <!--
 **NCholisM/NCholisM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
