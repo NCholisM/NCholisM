@@ -1,4 +1,5 @@
 ## Hi there 👋
+Nama saya Muchamat Nur Cholis Ma'ruf. Saya adalah seorang fresh graduate dari Institut Teknologi Adhi Tama Surabaya dengan latar belakang jurusan Sistem Informasi dan berhasil menyelesaikan kuliah saya dengan IPK 3,59. Dan telah memperoleh pemahaman dasar dalam pemrograman web termasuk HTML, PHP, dan SQL selama kuliah. Saya sangat tertarik pada pengembangan perangkat lunak, analisis data, dan manajemen informasi. Saya juga pernah mengambil kesempatan untuk magang selama satu bulan di PT Telkom, di mana saya mendapatkan wawasan berharga tentang industri teknologi dan pengalaman dalam bekerja dalam tim. Meskipun saya belum memiliki pengalaman kerja yang signifikan, saya sangat antusias untuk belajar dan berkontribusi dalam industri teknologi.
 
 ![](https://komarev.com/ghpvc/?username=NCholisM&style=for-the-badge&label=PROFILE+VIEWS)
 <!--
