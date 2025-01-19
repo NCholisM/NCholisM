@@ -3,7 +3,6 @@ Nama saya **Muchamat Nur Cholis Ma'ruf**, saya adalah lulusan dari **Institut Te
 
 Selama kuliah, saya memperoleh pemahaman dasar dalam **pemrograman web** termasuk **HTML**, **PHP**, dan **SQL**. Saya memiliki ketertarikan dalam **pengembangan perangkat lunak**, **analisis data**, dan **manajemen informasi**. Saya juga pernah mengambil kesempatan untuk magang selama **satu bulan di PT Telkom Regional V Surabaya**, di mana saya mendapatkan wawasan berharga tentang industri teknologi dan pengalaman bekerja dalam tim.
 
-Meskipun saya belum memiliki pengalaman kerja yang signifikan, saya sangat antusias untuk belajar dan berkontribusi dalam industri teknologi. Saya memiliki kemampuan analisis yang baik, kemampuan pemecahan masalah, serta komitmen untuk terus mengembangkan diri dalam bidang ini.
 
 ## Keahlian
 - Pemrograman Web (HTML, PHP, SQL)
@@ -11,22 +10,15 @@ Meskipun saya belum memiliki pengalaman kerja yang signifikan, saya sangat antus
 - Analisis Data
 - Manajemen Informasi
 - Pemecahan Masalah
-- Kolaborasi Tim
 
 ## Pengalaman Magang
 - **PT Telkom Regional V Surabaya** (1 bulan)  
-  Mengasah kemampuan dalam dunia industri teknologi dan memperdalam keterampilan kerja tim.
 
 ## Minat
 - **Pengembangan Perangkat Lunak**: Menciptakan aplikasi dan solusi yang bermanfaat.
 - **Analisis Data**: Menyaring dan memanfaatkan data untuk pengambilan keputusan yang lebih baik.
-- **Manajemen Proyek Teknologi**: Mengelola proyek dan tim untuk mencapai tujuan teknologi dengan efisien.
 
-## Tujuan
-Saya berkomitmen untuk terus mengembangkan diri dalam bidang teknologi dan berkontribusi pada inovasi yang berdampak positif. Saya mencari peluang untuk belajar lebih banyak dalam industri teknologi, serta untuk berkolaborasi dalam proyek-proyek yang menantang.
 
----
-Feel free to connect with me if you'd like to collaborate on exciting projects or have any questions!
 
 ![](https://komarev.com/ghpvc/?username=NCholisM&style=for-the-badge&label=PROFILE+VIEWS)
 <!--
